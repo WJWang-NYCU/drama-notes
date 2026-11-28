@@ -72,7 +72,7 @@ html = <<~HTML
 <body>
   <header class="mast"><a href="index.html">劇中所見｜紐約新醫革命</a><small>完整導讀</small></header>
   <main>
-    <header class="masthead"><p class="eyebrow">劇中所見　｜　紐約・美國</p><h1>紐約新醫革命 <i>New Amsterdam</i></h1><p class="deck">曼哈頓的公立醫院、急診與美國醫療安全網</p><p class="notice">本頁將原始 PDF 的文章、人物、制度比較、英文練習與資料來源逐段轉寫為網頁。原始版也保留供核對與列印。</p><a class="pdf-link" href="assets/new-amsterdam-guide.pdf" target="_blank" rel="noreferrer">開啟原始 PDF</a></header>
+    <header class="masthead"><p class="eyebrow">劇中所見　｜　紐約・美國</p><h1>紐約新醫革命 <i>New Amsterdam</i></h1><p class="deck">曼哈頓的公立醫院、急診與美國醫療安全網</p><p class="notice">本文完整呈現人物、制度比較、英文練習與資料來源，讓內容本身成為可閱讀、可搜尋的網頁。</p></header>
     <article>
 #{paragraphs.join("\n")}
     </article>
